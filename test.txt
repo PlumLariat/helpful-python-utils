@@ -1,0 +1,2 @@
+Look at me im a text file.
+I should contain exactly 67 characters. 
